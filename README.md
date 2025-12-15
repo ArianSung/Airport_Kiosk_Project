@@ -57,29 +57,7 @@ Airport_Kiosk_Project/
 └── Resources/                          # 리소스 파일
 ```
 
-## 💻 설치 및 실행 (Installation & Running)
 
-### 요구사항 (Requirements)
-- Windows OS
-- Visual Studio 2019 이상
-- .NET Framework
-
-### 실행 방법 (How to Run)
-
-1. **저장소 클론 (Clone the repository)**
-   ```bash
-   git clone https://github.com/ArianSung/Airport_Kiosk_Project.git
-   ```
-
-2. **솔루션 파일 열기 (Open solution file)**
-   ```
-   Airport_Kiosk_Project.sln 파일을 Visual Studio로 열기
-   ```
-
-3. **빌드 및 실행 (Build and Run)**
-   ```
-   F5 키를 누르거나 Visual Studio에서 "시작" 버튼 클릭
-   ```
 
 ## 🎯 사용 흐름 (User Flow)
 
@@ -90,37 +68,7 @@ Airport_Kiosk_Project/
 5. **위험물 안내 확인** → 반입 금지 물품 확인
 6. **체크인 완료** → 탑승권 발급
 
-## 🎨 주요 화면 (Screenshots)
 
-*프로젝트의 주요 화면 스크린샷을 추가하세요*
-
-## 👥 기여 (Contributing)
-
-프로젝트 개선을 위한 기여를 환영합니다!
-
-Contributions are welcome to improve this project!
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 📝 라이선스 (License)
-
-이 프로젝트의 라이선스 정보를 추가하세요.
-
-Add license information for this project.
-
-## 📧 연락처 (Contact)
-
-ArianSung - [@ArianSung](https://github.com/ArianSung)
-
-Project Link: [https://github.com/ArianSung/Airport_Kiosk_Project](https://github.com/ArianSung/Airport_Kiosk_Project)
-
-## 🙏 감사의 글 (Acknowledgments)
-
-- 프로젝트 개발에 도움을 준 모든 분들께 감사드립니다
 - Thanks to everyone who contributed to this project
 
 ---
